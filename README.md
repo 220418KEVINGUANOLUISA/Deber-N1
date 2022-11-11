@@ -64,11 +64,11 @@
 
 #Notación científica y de ingeniería. (2013, 2 julio). laurablogfisica. https://laurablogfisica.wordpress.com/periodo-i-2/notacion-cientifica/
 
-#Resolución de los ejercicios de estructura atómica (parte I). (2022, 8 noviembre). http://nomasdudasquimica.blogspot.com/2016/03/
+Resolución de los ejercicios de estructura atómica (parte I). (2022, 8 noviembre). http://nomasdudasquimica.blogspot.com/2016/03/
 
-#Voltage and Current Sources. (s. f.). http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/visource.html
+Voltage and Current Sources. (s. f.). http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/visource.html
 
-#Resistencias variables. (s. f.). http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html
+Resistencias variables. (s. f.). http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html
 
 
 
